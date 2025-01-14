@@ -1,3 +1,21 @@
 body {
     background-color: white;
 }
+button {
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+}
+#container {
+    display: flex;
+}
+#calculator {
+    display: flex;
+    width: 300px;
+    flex-wrap: wrap;
+
+}
+#operators {
+    display: flex;
+    flex-direction: column;
+}
